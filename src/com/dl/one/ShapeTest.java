@@ -16,6 +16,7 @@ class Rectangle extends Shape {
     float length;
     float width;
 
+
     // Constructor to initialize the length and width of the rectangle.
     Rectangle(float length, float width) {
         this.length = length;
@@ -51,7 +52,7 @@ public class ShapeTest {
         // Creating instances of Circle and Rectangle.
         Circle circle = new Circle(5.0);
         Rectangle rectangle = new Rectangle(5, 15.5f);
-
+        
 
         // Printing the calculated areas for Circle and Rectangle.
         System.out.println("Area of Circle: " + circle.calculateArea());
