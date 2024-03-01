@@ -52,6 +52,7 @@ public class ShapeTest {
         Circle circle = new Circle(5.0);
         Rectangle rectangle = new Rectangle(5, 15.5f);
 
+
         // Printing the calculated areas for Circle and Rectangle.
         System.out.println("Area of Circle: " + circle.calculateArea());
         System.out.println("Area of Rectangle: " + rectangle.calculateArea());
