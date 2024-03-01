@@ -1,5 +1,6 @@
 
 Digital Lync Institute Assignments
+
 This Git repository contains my solutions to the assignments provided by Digital Lync Institute. Each assignment focuses on object-oriented programming concepts and involves creating classes with specific functionalities.
 
 Assignments
