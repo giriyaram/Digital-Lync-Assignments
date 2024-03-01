@@ -16,6 +16,7 @@ public class AreaOfRectangle {
         in.close();
         float result = areaOfRectangle(l, w);
 
+
         System.out.println("The area of rectangle is "+ result);
     }
 
